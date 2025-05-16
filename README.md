@@ -8,7 +8,8 @@ mensen die willen leren oosterse gerechten maken
 
 ## Opdrachtgever
 
-Jasper is een docent
+Jasper is een docent.
+
 zijn les is meestal: PROG
 
 ## Eisen
