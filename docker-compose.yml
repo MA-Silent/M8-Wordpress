@@ -39,6 +39,3 @@ services:
             - "1089:80"
 volumes:
     db: {}
-    themes:
-    plugins:
-    uploads:

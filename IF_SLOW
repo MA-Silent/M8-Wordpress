@@ -1,0 +1,7 @@
+NFTABLES IS PROBLEM
+sudo nft add rule inet filter forward ct state established,related accept
+sudo nft add rule inet filter forward iifname "docker0" accept
+sudo nft add rule inet filter forward iifname "br-d0e0ccad4ef3" accept
+
+if in config
+sudo nft -c -f /etc/nftables.conf
