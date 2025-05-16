@@ -12,7 +12,6 @@ services:
         volumes:
           - ./themes:/var/www/html/wp-content/themes:delegated
           - ./plugins:/var/www/html/wp-content/plugins:delegated
-          - ./root:/var/www/html/:delegated
           - ./uploads:/var/www/html/wp-content/uploads:delegated
         dns:
           - 8.8.8.8
