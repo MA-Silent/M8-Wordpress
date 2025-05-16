@@ -6,12 +6,6 @@ ik ga een website maken over oosterse gerechten
 
 mensen die willen leren oosterse gerechten maken
 
-## Opdrachtgever
-
-Jasper is een docent.
-
-zijn les is meestal: PROG
-
 ## Eisen
 
 feed: recept lijst
