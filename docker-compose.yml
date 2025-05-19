@@ -27,7 +27,7 @@ services:
         ports:
             - 3310:3306
         volumes:
-          - ./db:/var/lib/mysql:delegated
+          - db:/var/lib/mysql
     # PhpMyAdmin
     phpmyadmin:
         image: phpmyadmin
