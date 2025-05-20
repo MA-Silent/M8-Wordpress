@@ -13,9 +13,6 @@ services:
           - ./themes:/var/www/html/wp-content/themes:delegated
           - ./plugins:/var/www/html/wp-content/plugins:delegated
           - ./uploads:/var/www/html/wp-content/uploads:delegated
-        dns:
-          - 8.8.8.8
-          - 1.1.1.1
     # Database
     mariadb:
         image: mariadb
