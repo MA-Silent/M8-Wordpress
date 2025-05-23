@@ -1,5 +1,9 @@
 /*
-Theme Name: Nig
+Theme Name: Child
 Author: Ben
 Template: cue
 */
+.wp-site-blocks{
+
+	background-color: red;
+}
